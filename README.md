@@ -23,11 +23,22 @@ Aqui estão algumas das tecnologias, linguagens e conceitos com os quais eu trab
 </div>
  
 <br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
- <a href="[https://discord.gg/5DVhGKVf4h](https://github.com/Carol-M-Gregorio)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:carol.mgregorio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/carolina-m-gregorio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+### Formação e Certificações
+
+* **Graduação em Sistemas da Informação** - Faculdade Impacta de Tecnologia
+* **Formação em Cibersegurança** - IEFP (em andamento)
+* **Curso Cisco: Introdução à Cibersegurança**
+
+### Estatísticas do GitHub
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <a href="https://github.com/carol-m-gregorio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carol-m-gregorio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub da Carol M. Gregorio"/>
+  </a>
+  <a href="https://github.com/carol-m-gregorio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carol-m-gregorio&layout=compact&langs_count=6&theme=tokyonight" alt="Top Linguagens da Carol M. Gregorio"/>
+  </a>
 </div>
+ 
+
