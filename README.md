@@ -30,15 +30,5 @@ Aqui estão algumas das tecnologias, linguagens e conceitos com os quais eu trab
 * **Formação em Cibersegurança** - IEFP (em andamento)
 * **Curso Cisco: Introdução à Cibersegurança**
 
-### Estatísticas do GitHub
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://github.com/carol-m-gregorio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carol-m-gregorio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub da Carol M. Gregorio"/>
-  </a>
-  <a href="https://github.com/carol-m-gregorio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carol-m-gregorio&layout=compact&langs_count=6&theme=tokyonight" alt="Top Linguagens da Carol M. Gregorio"/>
-  </a>
-</div>
  
 
