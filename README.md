@@ -39,7 +39,15 @@ Aqui pode encontrar alguns dos projetos que mais se destacam ou que melhor repre
     * Um site para empresa no Ramo de contruções Metalicas
     * [🔗 Ver Projeto]([https://github.com/Carol-M-Gregorio/NomeDoProjeto1](https://github.com/Carol-M-Gregorio/ConstructionUpMetal))
     * [#HTML #CSS #JavaScript]
+ 
+      
 
+### 📞 Conecte-se Comigo
+
+Estou sempre aberta a novas ligações, colaborações e oportunidades. Sinta-se à vontade para me contactar através de:
+
+* [LinkedIn](https://www.linkedin.com/in/carolina-m-gregorio/)
+* [Email](mailto:carol.mgregorio@gmail.com)
 
 
 
