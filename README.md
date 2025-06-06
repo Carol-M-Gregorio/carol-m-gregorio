@@ -42,9 +42,10 @@ Aqui estão algumas das tecnologias, linguagens e conceitos com os quais trabalh
 Aqui pode encontrar alguns dos projetos que mais se destacam ou que melhor representam as minhas habilidades e interesses.
 
 * **Construction Up Metal**
-    * Um site para empresa no Ramo de contruções Metalicas
-    * [🔗 Ver Projeto]([https://github.com/Carol-M-Gregorio/NomeDoProjeto1](https://github.com/Carol-M-Gregorio/ConstructionUpMetal))
-    * [#HTML #CSS #JavaScript]
+    * Um site para uma empresa no ramo de construções metálicas.
+    * [🔗 Ver Projeto](https://github.com/Carol-M-Gregorio/ConstructionUpMetal)
+    * `#HTML #CSS #JavaScript`
+
  
       
 
