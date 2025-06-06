@@ -1,4 +1,4 @@
-## Carol M. Gregorio | Cibersegurança & Desenvolvimento Web
+# Carol M. Gregorio | Cibersegurança & Desenvolvimento Web
 
 ### Sobre Mim
 
@@ -8,25 +8,31 @@ Estou a consolidar as minhas habilidades em segurança digital através de uma f
 
 ### Formação e Certificações
 
-* **Graduação em Sistemas da Informação** - Faculdade Impacta de Tecnologia
+* **Licenciatura em Sistemas da Informação** - Faculdade Impacta de Tecnologia
 * **Formação em Cibersegurança** - IEFP (em andamento)
 * **Curso Cisco: Introdução à Cibersegurança**  (em andamento)
 
-### Minhas Habilidades
+### As Minhas Habilidades
 
 Aqui estão algumas das tecnologias, linguagens e conceitos com os quais trabalho e estou a aprender, com foco na minha transição para a cibersegurança:
 
- <div>
-   <a href="https://github.com/carol-m-gregorio">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carol-m-gregorio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carol-m-gregorio&layout=compact&langs_count=6&theme=tokyonight"/>
-    
+ <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: center;">
+  <a href="https://github.com/Carol-M-Gregorio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carol-M-Gregorio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Carol-M-Gregorio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol-M-Gregorio&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
 </div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: center; margin-top: 20px;">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
+  <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
+  <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
+  
+ 
+  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">
+  <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub">
 </div>
  
 <br>
