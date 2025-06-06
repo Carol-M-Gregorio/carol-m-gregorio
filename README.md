@@ -53,8 +53,8 @@ Aqui pode encontrar alguns dos projetos que mais se destacam ou que melhor repre
 
 Estou sempre aberta a novas ligações, colaborações e oportunidades. Sinta-se à vontade para me contactar através de:
 
-* [LinkedIn](https://www.linkedin.com/in/carolina-m-gregorio/)
-* [Email](mailto:carol.mgregorio@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/carolina-m-gregorio/](https://www.linkedin.com/in/carolina-m-gregorio/)
+* **Email:** [carol.mgregorio@gmail.com](mailto:carol.mgregorio@gmail.com)
 
 
 
