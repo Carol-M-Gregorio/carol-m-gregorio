@@ -6,6 +6,12 @@ Sou a Carol M. Gregorio, **desenvolvedora com formação em Sistemas da Informa�
 
 Estou a consolidar minhas habilidades em segurança digital através de uma formação especializada em **Cibersegurança pelo IEFP** e, em paralelo, aprimorando meus fundamentos com o curso **Cisco "Introdução à Cibersegurança"**. Meu objetivo é combinar minha experiência em desenvolvimento com o conhecimento em segurança para construir sistemas robustos e proteger ambientes digitais.
 
+### Formação e Certificações
+
+* **Graduação em Sistemas da Informação** - Faculdade Impacta de Tecnologia
+* **Formação em Cibersegurança** - IEFP (em andamento)
+* **Curso Cisco: Introdução à Cibersegurança**  (em andamento)
+
 ### Minhas Habilidades
 
 Aqui estão algumas das tecnologias, linguagens e conceitos com os quais eu trabalho e estou a aprender, com foco na minha transição para a cibersegurança:
@@ -24,11 +30,7 @@ Aqui estão algumas das tecnologias, linguagens e conceitos com os quais eu trab
  
 <br>
 
-### Formação e Certificações
 
-* **Graduação em Sistemas da Informação** - Faculdade Impacta de Tecnologia
-* **Formação em Cibersegurança** - IEFP (em andamento)
-* **Curso Cisco: Introdução à Cibersegurança**
 
  
 
